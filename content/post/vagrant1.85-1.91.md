@@ -1,5 +1,5 @@
 +++
-tags = ["",""]
+tags = ["vccw","vagrant","wordpress"]
 slug = ""
 draft = false
 date = "2017-02-02T19:48:31+09:00"

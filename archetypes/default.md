@@ -1,10 +1,9 @@
 +++
 date = ""
-draft = true
-slug = ""
-tags = ["", ""]
 title = ""
 categories = [""]
+tags = ["", ""]
 eyecatch = ""
-
+slug = ""
+draft = true
 +++
