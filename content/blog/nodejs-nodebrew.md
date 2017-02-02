@@ -1,6 +1,6 @@
 +++
 date = "2016-05-19T10:47:33+09:00"
-draft = false
+draft = true
 categories = ["env"]
 tags = ["nodejs","nodebrew"]
 title = "node.jsをnodebrewで管理してみた"

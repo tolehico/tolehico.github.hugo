@@ -1,7 +1,7 @@
 +++
 date = "2015-05-07T19:56:31+09:00"
 title = "test1"
-draft = false
+draft = true
 +++
 
 # hugoでブログをやってみる
