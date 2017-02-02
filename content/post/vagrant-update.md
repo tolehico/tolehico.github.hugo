@@ -1,11 +1,11 @@
 +++
+title = "Vagrantのバージョンアップの方法"
+date = "2017-02-02T19:48:31+09:00"
+categories = [""]
 tags = ["vccw","vagrant","wordpress"]
+eyecatch = ""
 slug = ""
 draft = false
-date = "2017-02-02T19:48:31+09:00"
-eyecatch = ""
-categories = [""]
-title = "Vagrantのバージョンアップの方法"
 
 +++
 

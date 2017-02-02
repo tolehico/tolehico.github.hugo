@@ -1,15 +1,15 @@
 +++
-tags = ["vagrant",""]
-categories = [""]
 title = "vagrant環境のアップデート (1.8.6 -> 1.9.1)でエラーが発生"
 date = "2017-02-02T20:02:35+09:00"
-draft = false
-slug = "vagrant-1.85-1.91"
+categories = [""]
+tags = ["vagrant",""]
 eyecatch = ""
-
+slug = ""
+draft = false
 +++
 
-vagrantをアップデートして起動したら、以下の際なエラーメッセージが出てしまった。
+## vagrantのアップデート後にエラー発生
+(vagrantをアップデートして)[https://tolehico.github.io/post/vagrant-update/]起動したら、以下の際なエラーメッセージが出てしまった。
 
 
 ```terminal
