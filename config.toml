@@ -1,8 +1,9 @@
-baseurl = "https://tolehico.github.io/"
+BaseURL = "https://tolehico.github.io/"
 languageCode = "ja"
-title = "Tech Blog by tolehico"
+Title = "アイディアをプロトタイピングするブログ"
 theme = "hugo-zen"
 canonifyurls = true
+Author = "tolehico"
 
 [params]
 	  logo      = "/images/logo.png"
@@ -13,4 +14,4 @@ canonifyurls = true
 	  instagram	= "https://instagram.com/tolehico"
 	  linkedin	= "https://jp.linkedin.com/in/tolehico"
 	  email     = "tolehico@gmail.com"
-	  analytics = ""
+	  analytics = "UA-91330238-1"
