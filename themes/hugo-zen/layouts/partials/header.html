@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
+<title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
+</head>
+<body>
+
+<div class="container">
+	<header role="banner" class="header navbar">
+		<div class="profile">
+			<a class="profile-avatar" href="/"></a>
+			<h1 class="profile-name heading heading-medium"><a href="/">アイディアを<br/>プロトタイピングするblog</a></h1>
+			<p class="profile-role">Producer at <a class="link" href="http://abbalab.com">ABBALab</a> & <a class="link" href="http://mistletoe.co">Mistletoe</a></p>
+
+	       </div>
+
+<!--		{{ if eq $isHomePage true }}<h1 class="site-title">{{ .Site.Title }}</h1>{{ end }} -->
+	</header>

@@ -1,0 +1,16 @@
+baseurl = "https://tolehico.github.io/"
+languageCode = "ja"
+title = "Tech Blog by tolehico"
+theme = "hugo-zen"
+canonifyurls = true
+
+[params]
+	  logo      = "/images/logo.png"
+	  copyright = "tolehico All rights reserved."
+	  twitter   = "https://twitter.com/tolehico"
+	  facebook  = "https://www.facebook.com/t.kamei"
+	  github    = "https://github.com/tolehico/"
+	  instagram	= "https://instagram.com/tolehico"
+	  linkedin	= "https://jp.linkedin.com/in/tolehico"
+	  email     = "tolehico@gmail.com"
+	  analytics = ""
